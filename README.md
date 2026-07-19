@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |

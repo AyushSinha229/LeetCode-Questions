@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |

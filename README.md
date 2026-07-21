@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3110-score-of-a-string](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2235-add-two-integers) |
+| [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0169-majority-element) |
+| [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |

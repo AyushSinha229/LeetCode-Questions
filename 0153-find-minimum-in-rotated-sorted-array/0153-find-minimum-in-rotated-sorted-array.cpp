@@ -2,15 +2,20 @@ class Solution {
 public:
     int findMin(vector<int>& arr) {
 
-        sort(arr.begin(),arr.end());
+        int n = arr.size();
 
-        int mini = arr[arr.size() - 1];
+        int low = 0 , high = n - 1;
 
-        for(int i = 0 ; i < arr.size(); i++){
-            mini = min(mini,arr[i]);          
+        while(low < high){
+            int mid = (low + high)/2;
+
+            if(arr[mid] > arr[high]){
+                low = mid + 1;
+            }else{
+                high = mid;
+            }
         }
-
-        return mini;
+        return arr[low];
         
     }
 };

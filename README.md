@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [1528-shuffle-string](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 ## Divide and Conquer
 |  |

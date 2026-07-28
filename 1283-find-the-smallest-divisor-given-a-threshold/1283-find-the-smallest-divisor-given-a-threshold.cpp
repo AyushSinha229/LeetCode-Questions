@@ -1,36 +1,26 @@
 class Solution {
 public:
+    int smallestDivisor(vector<int>& arr, int th) {
 
-    bool possible(vector<int>& arr, int limit, int d){
-        long long sum = 0;
+        int maxi = arr[0];
 
-        for(auto x : arr){
-            sum += ceil((double)x / d);
+        for(int x : arr){
+            maxi = max(maxi, x);
         }
-        if(sum > limit){
-            return false;
-        }
-        return sum <= limit;
-    }
-    int smallestDivisor(vector<int>& arr, int limit) {
-        
+
         int low = 1;
-        int high = *max_element(arr.begin(), arr.end());
-        int ans = -1;
+        int high = maxi;
 
         while(low <= high){
+            int mid = low + (high - low) / 2;
+            int sum = 0;
 
-        int mid = (low + high) /2;
+            for(auto x : arr) sum += (x + mid - 1) / mid;
 
-        if(possible(arr,limit,mid)){
-            ans = mid;
-            high = mid - 1;
-        }else{
-            low = mid + 1;
+            if(sum <= th) high = mid - 1;
+            else low = mid + 1;
         }
-
         
-    }
-        return ans;
+        return low;
     }
 };

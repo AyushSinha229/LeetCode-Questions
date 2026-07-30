@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |

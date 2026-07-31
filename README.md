@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |

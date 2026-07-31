@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2469-convert-the-temperature) |
 | [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

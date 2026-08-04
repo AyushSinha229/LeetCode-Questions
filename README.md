@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |

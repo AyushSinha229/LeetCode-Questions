@@ -2,18 +2,29 @@ class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
 
-        map<ListNode*, int> mpp;
+        
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        ListNode* temp = head;
+        while(fast != nullptr && fast -> next != nullptr){
 
-        while(temp != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
 
-            if(mpp.find(temp) != mpp.end()) return temp;
+            if(slow == fast){
+                
+                slow = head;
 
-            mpp[temp] = 1;
+                while(slow != fast){
+                    slow = slow->next;
+                    fast = fast->next;
+                }
 
-            temp = temp->next;
+                return slow;
+            }
         }
+
+        
 
         return nullptr;
         

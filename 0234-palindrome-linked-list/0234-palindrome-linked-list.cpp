@@ -1,20 +1,54 @@
 class Solution {
 public:
+
+    ListNode* reverseList(ListNode* head) {
+
+        if(head == nullptr || head->next == nullptr)
+            return head;
+
+        ListNode* newhead = reverseList(head->next);
+
+        head->next->next = head;
+        head->next = nullptr;
+
+        return newhead;
+    }
+
     bool isPalindrome(ListNode* head) {
-        stack<int> st;
 
-        ListNode* temp = head;
+        if(head == nullptr || head->next == nullptr)
+            return true;
 
-        while(temp != nullptr){
-            st.push(temp -> val);
-            temp = temp->next;
+        // Find middle
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        temp = head;
-        while(temp != nullptr){
-            if(temp -> val != st.top()) return false;
-            temp = temp->next;
-            st.pop();
+
+        // Reverse second half
+        ListNode* head2 = reverseList(slow);
+
+        // Compare
+        ListNode* first = head;
+        ListNode* second = head2;
+
+        while(second != nullptr) {
+
+            if(first->val != second->val) {
+                reverseList(head2);
+                return false;
+            }
+
+            first = first->next;
+            second = second->next;
         }
+
+        // Restore
+        reverseList(head2);
+
         return true;
     }
 };

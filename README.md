@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

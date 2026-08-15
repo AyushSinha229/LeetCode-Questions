@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1816-truncate-sentence) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |

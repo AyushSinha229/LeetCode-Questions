@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [3731-find-missing-elements](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |

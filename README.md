@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Union-Find
 |  |
 | ------- |

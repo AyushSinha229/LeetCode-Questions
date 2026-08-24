@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Game Theory
@@ -255,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

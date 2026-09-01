@@ -1,21 +1,20 @@
 class Solution {
 public:
     int singleNumber(vector<int>& arr) {
+        map<int,int>mpp;
 
         int n = arr.size();
 
-        map<int,int> hash;
-
-        for(auto x : arr){
-            hash[x]++;
+        for(int i = 0 ; i < n ; i++){
+            mpp[arr[i]]++;
         }
-        for(auto x : hash){
-            if(x.second == 1){
-                return x.first;
+
+        for (auto it : mpp) {
+            if (it.second == 1) {
+                return it.first;
             }
         }
 
         return -1;
-        
     }
 };

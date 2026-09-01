@@ -285,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

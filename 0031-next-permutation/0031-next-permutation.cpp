@@ -1,33 +1,33 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& nums) {
+    void nextPermutation(vector<int>& arr) {
+        int n = arr.size();
 
-        int n = nums.size();
+        // 1. Find pivot
         int pivot = -1;
 
-        // Step 1: Find the pivot
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
+        for(int i = n - 2; i >= 0; i--) {
+            if(arr[i] < arr[i + 1]) {
                 pivot = i;
                 break;
             }
         }
 
-        // Step 2: If no pivot exists, this is the last permutation
-        if (pivot == -1) {
-            reverse(nums.begin(), nums.end());
+        // 2. If no pivot, this is the largest permutation
+        if(pivot == -1) {
+            reverse(arr.begin(), arr.end());
             return;
         }
 
-        // Step 3: Find the first element greater than pivot from the right
-        for (int i = n - 1; i > pivot; i--) {
-            if (nums[i] > nums[pivot]) {
-                swap(nums[i], nums[pivot]);
+        // 3. Find the first element from right greater than pivot
+        for(int i = n - 1; i > pivot; i--) {
+            if(arr[i] > arr[pivot]) {
+                swap(arr[i], arr[pivot]);
                 break;
             }
         }
 
-        // Step 4: Reverse the suffix
-        reverse(nums.begin() + pivot + 1, nums.end());
+        // 4. Reverse the part after pivot
+        reverse(arr.begin() + pivot + 1, arr.end());
     }
 };

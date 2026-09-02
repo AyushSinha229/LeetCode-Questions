@@ -2,24 +2,35 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& arr) {
 
-        set<int> st(arr.begin(), arr.end());
+        int n = arr.size();
+
+        unordered_set<int> st;
+
+        for(auto x : arr){
+            st.insert(x);
+        }
+
 
         int longest = 0;
 
-        for (int num : st) {
+        // 2. Traverse the array
+        for(auto x : st) {
 
-            // Is this the start of a sequence?
-            if (st.find(num - 1) == st.end()) {
+            // 3. Check if x is the START of a sequence
+            if(st.find(x - 1) == st.end()) {
 
-                int current = num;
-                int length = 1;
+                int current = x;
+                int count = 1;
 
-                while (st.find(current + 1) != st.end()) {
+                // 4. Keep going while next number exists
+                while(st.find(current+1) != st.end()) {
+
                     current++;
-                    length++;
+                    count++;
                 }
 
-                longest = max(longest, length);
+                // 5. Update longest
+                longest = max(longest, count);
             }
         }
 

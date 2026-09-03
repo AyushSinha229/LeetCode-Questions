@@ -2,18 +2,18 @@ class Solution {
 public:
     bool search(vector<int>& arr, int target) {
 
-        int n = arr.size();
-        int low = 0, high = n - 1;
+        int low = 0, high = arr.size() - 1;
 
         while (low <= high) {
 
             int mid = low + (high - low) / 2;
 
+            // Found target
             if (arr[mid] == target)
                 return true;
 
-            // Duplicate elements: cannot determine sorted half
-            if (arr[low] == arr[mid] && arr[high] == arr[mid]) {
+            // Duplicates: cannot determine sorted half
+            if (arr[low] == arr[mid] && arr[mid] == arr[high]) {
                 low++;
                 high--;
                 continue;
@@ -22,19 +22,25 @@ public:
             // Left half is sorted
             if (arr[low] <= arr[mid]) {
 
-                if (target >= arr[low] && target < arr[mid])
+                // Target lies inside left sorted half
+                if (arr[low] <= target && target < arr[mid]) {
                     high = mid - 1;
-                else
+                }
+                else {
                     low = mid + 1;
+                }
             }
 
             // Right half is sorted
             else {
 
-                if (target > arr[mid] && target <= arr[high])
+                // Target lies inside right sorted half
+                if (arr[mid] < target && target <= arr[high]) {
                     low = mid + 1;
-                else
+                }
+                else {
                     high = mid - 1;
+                }
             }
         }
 

@@ -5,7 +5,7 @@ public:
         int k = 1;
 
         for(int i = 1 ; i < n ; i++){
-            if (arr[i] != arr[i - 1]){
+            if(arr[i] != arr[i - 1]){
                 arr[k] = arr[i];
                 k++;
             }

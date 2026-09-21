@@ -1,36 +1,35 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& arr, int target) {
+        int first = -1, last = -1;
         int n = arr.size();
         int low = 0, high = n - 1;
-        int first = -1, second = -1;
 
-
-        while(low <= high){
+        while (low <= high) {
             int mid = low + (high - low) / 2;
-            if(arr[mid] == target){
+
+            if (arr[mid] == target) {
                 first = mid;
                 high = mid - 1;
-            }else if(arr[mid] < target){
+            } else if (arr[mid] < target)
                 low = mid + 1;
-            }else{
+            else
                 high = mid - 1;
-            }
         }
         low = 0;
-high = n - 1;
-        while(low <= high){
+        high = n - 1;
+        while (low <= high) {
             int mid = low + (high - low) / 2;
-            if(arr[mid] == target){
-                second = mid;
+
+            if (arr[mid] == target) {
+                last = mid;
                 low = mid + 1;
-            }else if(arr[mid] < target){
+            } else if (arr[mid] < target)
                 low = mid + 1;
-            }else{
+            else
                 high = mid - 1;
-            }
         }
 
-        return {first,second};
+        return {first, last};
     }
 };

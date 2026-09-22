@@ -1,29 +1,33 @@
 class Solution {
 public:
-    long long hour(vector<int>& arr, int speed) {
-        long long thour = 0;
+    long long time(vector<int>& piles, int mid) {
 
-        for (int j = 0; j < arr.size(); j++) {
-            thour += (arr[j] + speed - 1) / speed;
+        long long sum = 0;
+
+        for (int i = 0; i < piles.size(); i++) {
+            sum += ((long long)piles[i] + mid - 1) / mid;
         }
 
-        return thour;
+        return sum;
     }
 
-    int minEatingSpeed(vector<int>& arr, int h) {
+    int minEatingSpeed(vector<int>& piles, int h) {
 
-        int high = 0;
-        for (int x : arr)
-            high = max(high, x);
+        int maxi = INT_MIN;
 
-        int low = 1;
+        for (auto x : piles) {
+            maxi = max(maxi, x);
+        }
+
+        int low = 1, high = maxi;
 
         while (low <= high) {
+
             int mid = low + (high - low) / 2;
 
-            long long t = hour(arr, mid);
+            long long timereq = time(piles, mid);
 
-            if (t <= h)
+            if (timereq <= h)
                 high = mid - 1;
             else
                 low = mid + 1;

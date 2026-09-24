@@ -1,12 +1,27 @@
 class Solution {
 public:
-    int shipWithinDays(vector<int>& arr, int days) {
-        int maxi = arr[0];
-        int sum = 0;
+    int capacity(vector<int>& arr, int mid, int days) {
 
-        for (int i = 0; i < arr.size(); i++) {
-            maxi = max(maxi, arr[i]);
-            sum += arr[i];
+        int load = 0, day = 1;
+        for (auto x : arr) {
+            if (load + x > mid) {
+                day++;
+                load = x;
+            } else {
+                load += x;
+            }
+        }
+        return day;
+    }
+    int shipWithinDays(vector<int>& arr, int days) {
+
+        int n = arr.size();
+
+        int maxi = INT_MIN;
+        int sum = 0;
+        for (auto x : arr) {
+            maxi = max(maxi, x);
+            sum += x;
         }
 
         int low = maxi, high = sum;
@@ -14,24 +29,13 @@ public:
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            int load = 0;
-            int day = 1;
+            int maxc = capacity(arr, mid, days);
 
-            for (int x : arr) {
-                if (load + x > mid) {
-                    day++;
-                    load = x;
-                } else {
-                    load += x;
-                }
-            }
-
-            if (day <= days)
+            if (maxc <= days)
                 high = mid - 1;
             else
                 low = mid + 1;
         }
-
         return low;
     }
 };

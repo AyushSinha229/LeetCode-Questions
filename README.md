@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AyushSinha229/LeetCode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Game Theory
 |  |

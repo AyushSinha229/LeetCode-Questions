@@ -4,21 +4,22 @@ public:
         if (root == NULL)
             return new TreeNode(val);
 
-        TreeNode* cur = root;
+        TreeNode* curr = root;
 
-        while (true) {
-            if (cur->val <= val) {
-                if (cur->right != NULL) {
-                    cur = cur->right;
-                } else {
-                    cur->right = new TreeNode(val);
+        while(true){
+
+            if(curr-> val <= val){
+                if(curr->right != NULL){
+                    curr = curr->right;
+                }else{
+                    curr->right = new TreeNode(val);
                     break;
                 }
-            } else {
-                if (cur->left != NULL) {
-                    cur = cur->left;
-                } else {
-                    cur->left = new TreeNode(val);
+            }else{
+                if(curr->left != NULL){
+                    curr = curr->left;
+                }else{
+                    curr->left = new TreeNode(val);
                     break;
                 }
             }
